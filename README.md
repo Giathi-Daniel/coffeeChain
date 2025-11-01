@@ -144,7 +144,7 @@ MIT License © 2025 [Daniel Giathi](https://github.com/Giathi-Daniel)
 
 ---
 
-### 💚 Project Status
+### Project Status
 
 | Stage                | Description                                       |
 | -------------------- | ------------------------------------------------- |
@@ -160,5 +160,4 @@ MIT License © 2025 [Daniel Giathi](https://github.com/Giathi-Daniel)
 If you found this project inspiring or useful, please click the **Star** button at the top of the page!
 Your support helps CoffeeChain reach more people and build a fairer coffee trade ecosystem.
 
----tion + tagline** (the short text and topics that appear under your repo name) and a **star milestone badge** section?
-It’ll help your project show up in searches and look professional in the Explore and Trending tabs.
+[![Star on GitHub](https://img.shields.io/github/stars/<Giathi-Daniel>/coffeeChain?style=social)](https://github.com/<Giathi-Daniel>/CoffeeChain/stargazers)
