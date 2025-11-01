@@ -55,6 +55,17 @@ export const Footer = () => {
 
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
           <p>© 2025 CoffeeChain. All rights reserved. Built with care for coffee farmers worldwide.</p>
+          <p>
+            Built with ❤️ by{" "}
+            <a
+              href="https://github.com/Giathi-Daniel"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary hover:underline"
+            >
+              Giathi Daniel
+            </a>
+          </p>
         </div>
       </div>
     </footer>
