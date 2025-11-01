@@ -155,9 +155,11 @@ MIT License © 2025 [Daniel Giathi](https://github.com/Giathi-Daniel)
 
 ---
 
-### Show Your Support
+---
+### 🌟 Support CoffeeChain
+If you believe in empowering Kenyan coffee farmers through technology, please **star this project** to show support and help others discover it!
 
-If you found this project inspiring or useful, please click the **Star** button at the top of the page!
-Your support helps CoffeeChain reach more people and build a fairer coffee trade ecosystem.
+[![Star on GitHub](https://img.shields.io/github/stars/Giathi-Daniel/coffeeChain?style=social)](https://github.com/Giathi-Daniel/coffeeChain/stargazers)
 
-[![Star on GitHub](https://img.shields.io/github/stars/<Giathi-Daniel>/coffeeChain?style=social)](https://github.com/<Giathi-Daniel>/CoffeeChain/stargazers)
+---
+
