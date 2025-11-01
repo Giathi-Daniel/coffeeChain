@@ -23,8 +23,7 @@ export default function Contact() {
     setIsSubmitting(true);
     
     try {
-      // In a real app, this would send to your backend API
-      // For now, we'll simulate a successful submission
+      // simulate a successful submission
       await new Promise(resolve => setTimeout(resolve, 1000));
       
       toast({
@@ -166,7 +165,7 @@ export default function Contact() {
                     <h3 className="font-semibold mb-1">Call Us</h3>
                     <p className="text-sm text-muted-foreground mb-2">Monday to Friday, 9AM - 6PM</p>
                     <a href="tel:+1234567890" className="text-secondary hover:underline">
-                      +1 (234) 567-890
+                      +254 716-738-500
                     </a>
                   </div>
                 </div>
@@ -195,9 +194,8 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold mb-1">Office Location</h3>
                     <p className="text-sm text-muted-foreground">
-                      123 Coffee Street<br />
-                      San Francisco, CA 94102<br />
-                      United States
+                      Nairobi, Westlands<br />
+                      Kenya
                     </p>
                   </div>
                 </div>
